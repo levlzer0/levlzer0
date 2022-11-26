@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @levlzer0
-- 👀 I’m interested in fintech, ai/ml, and web3 domains. Familiar in Java, Python, Javascript, NodeJS, React
+- 👀 I’m interested in data, AI/ML areas. Familiar in Java, Python, Javascript, NodeJS, React
 - 🌱 Want to learn Go
-- 💞️ I’m looking to collaborate on any projects that might fall under my interested domains
 
 
 <!---
